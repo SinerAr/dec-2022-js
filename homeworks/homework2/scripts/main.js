@@ -106,8 +106,38 @@ else if (day>=21 && day <= 31)
 else
     console.log('Wrong day');
 
+let week = ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'];
+let weekday = prompt('Input day of week');
+switch (weekday){
+    case (1):
+        console.log(week[0]);
+        break;
+    case (2):
+        console.log(week[1]);
+        break;
+    case (3):
+        console.log(week[2]);
+        break;
+    case (4):
+        console.log(week[3]);
+        break;
+    case (5):
+        console.log(week[4]);
+        break;
+    case (6):
+        console.log(week[5]);
+        break;
+    case (7):
+        console.log(week[6]);
+        break;
+    default:
+        console.log('Input correct day number');
+}
+
+
+
 let x1 = 30;
-let x2 = 30;
+let x2 = 20;
 
 if (x1 === x2)
     console.log('Рівні');

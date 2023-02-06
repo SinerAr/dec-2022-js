@@ -4,18 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1772a5cd-6c61-4b6b-a76f-dde4c9406db2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dec-2022-js.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homework2/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homeworks1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homeworks/homeworks1/scripts/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lesson1/scripts/main.js" afterDir="false" />
+    <list default="true" id="1772a5cd-6c61-4b6b-a76f-dde4c9406db2" name="Changes" comment="homework 2 done">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/homeworks/homework2/scripts/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/homeworks/homework2/scripts/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,11 +58,24 @@
       <workItem from="1675276243642" duration="3916000" />
       <workItem from="1675432049987" duration="82000" />
       <workItem from="1675635800370" duration="5218000" />
-      <workItem from="1675642959642" duration="355000" />
+      <workItem from="1675642959642" duration="514000" />
+      <workItem from="1675644740628" duration="400000" />
     </task>
+    <task id="LOCAL-00001" summary="homework 2 done">
+      <created>1675643451997</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675643451997</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework 2 done" />
+    <option name="LAST_COMMIT_MESSAGE" value="homework 2 done" />
   </component>
 </project>
